@@ -1,0 +1,2 @@
+1. instalar el fix de cups de la carpeta zj-58.zip, descomprimirlo y seguir el archivo de instrucciones
+2. instalar el driver del fabricante encontrado en el otro zip, seguir los pasos del documento de texto
